@@ -10,6 +10,7 @@ public class First {
 		System.out.println("this is fourth statement");
 		System.out.println("this is fifth statement");
 		System.out.println("this is sixth statement");
+		System.out.println("this is seventh statement");
 	}
 
 }
